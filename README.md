@@ -10,12 +10,12 @@ A [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) v1 usage s
 
 ## Usage
 
-* Install dependencies:
+Install dependencies:
 
     npm install
     
-* Run dev server (webpack):
+Run dev server (webpack):
     
     npm run dev
 
-* Open browser at http://localhost:8080
+Open browser at http://localhost:8080
